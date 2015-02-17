@@ -45,6 +45,7 @@ LOGGING = {
 
 INSTALLED_APPS = (
     'django.contrib.admin',
+    'debug_toolbar',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
